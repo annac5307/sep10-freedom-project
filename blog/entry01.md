@@ -1,4 +1,4 @@
-# Entry 1: Topic decisions (Fiction Writing)
+# Entry 1: Topic Decisions (Fiction Writing)
 ##### 10/19/26
 
 ### Choosing a topic
@@ -10,13 +10,18 @@ The most useful of my chosen sources are <a href= "https://j-nelson.net/2017/04/
 I'm currently in the first stage of the engineering design process (defining the problem). The issue I've conceived as of now is that many people think of technology as a threat to art forms, including fiction writing, instead of as a tool. To research this problem in the 2nd stage, I plan to look for reliable online sources regarding the positive and negative impacts that the rise of technology has had or is having on fiction writers around the world. 
 
 ### Skills 
-Skills I learned from working on this blog is how to utilize Google, and how to efficiently grasp the main idea and/or purpose of various texts and websites. 
+Skills I learned from working on this blog is how to utilize Google, and how to efficiently grasp the main idea of texts. 
 
 #### How to utilize Google   
 Whenever I search for anything on Google, it gives me websites upon websites. Yet, only a handful of them actually provide what I want to see. Through this blog, I've learned to quickly skim the titles and first few words of the websites to identify if it's fitted to my intentions. For instance, seeing "Best AI stories" in the title already diverts my interest away, since the encouragement of AI-generated stories are fueling the very problem that I defined in the engineering design process. On the contrary, a title like "How Technology Transformed My Writing Process", along with the first few words of the article including "how authors must embrace digital technology", grabs my attention. This is because that particular topic can aid me in establishing the benefits of technology for writers.
 
-#### Gauging the main idea/purpose of sources
-The 
+#### Gauging the main idea of text-heavy sources
+Sometimes Google will give results that _appear_ suited for my search, but I'll realize after reading through the page that its direction is not at all what I wanted. Following my many experiences of this, I've learned to efficiently find the central idea of articles by skipping to its end. (I only do this if I have to make countless Google searches, such as for deciding on the Freedom Project topics.) 
+
+This method only works if the author provides some kind of summary at the end, and they usually do. If that summary still aligns with what I'm looking for, then I'll read the whole source. If the ending portion doesn't relate much with my topic, I'll save my time by moving onto a different source. 
+
+### Summary 
+Ultimately, the creation of this blog has helped me learn how to research online effectively, and about my own interests. I hope that, by the end of this project, I'll be much more knowledgeable on the ways technology can elevate fiction writing.  
 
 
 [Next](entry02.md)
