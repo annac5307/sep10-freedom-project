@@ -18,7 +18,8 @@ Topic: **Fiction Writing**
   * No maximum on how many books the user can write
   * Organize story elements on a board that can be easily edited
 
-The next app I viewed was <a href=""></a>    
+The next app I viewed was <a href="https://prowritingaid.com/">ProWritingAid</a>
+  *Has a grammar checker
 ##### Hardware
 * Tech
   * Detail
