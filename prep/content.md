@@ -37,7 +37,7 @@ image link
 * Collaboration features where you can assign others specific roles, such as the Co-writer and the Beta Reader.
 * Automatic saving and cloud backup
   * Wide variety of text and styling tools (ex: block-quotes,interior images, hyperlinks)
-  * 17 chapter themes and a custom theme builder
+  * 17 chapter templates and a custom template builder
   * Formats the book
     * Goal and habit settings to motivate the user
       
