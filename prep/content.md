@@ -11,7 +11,7 @@ Topic: **Fiction Writing**
 * Tech
   * Google search: Fiction Writing apps
 The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
-  * <img width="430" height="330" alt="image" src="https://github.com/user-attachments/assets/1c4ee2d9-59dc-41f2-824e-a2aa75ade0ae" />
+    * [App Icon and Download](https://play.google.com/store/apps/details?id=it.returntrue.novelist)
   * Free to download
   * Templates and allows custom templates
   * Can set a desired word count or due date to keep track of progress
@@ -19,7 +19,7 @@ The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
   * Organize story elements on a board that can be easily edited
 
 The next app I viewed was <a href="https://www.literatureandlatte.com/scrivener/overview">Scrivener</a>
-image link
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJjps9fpCBUtIc8h5Xuk_yLKLnRQXTAH8X8cnJbAkvoTgcaI9UuLMy2c9&s=10">
   * Scrivener is paid, but allows users a 30 day free trial (only applicable for macOS and Window versions)
     * Digital binder that stores manuscripts, world-building notes, character sketches, etc
       * Split-Screen allows multiple documents or reference notes to be opened simultaneously
