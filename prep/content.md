@@ -10,6 +10,7 @@ Topic: **Fiction Writing**
 ##### Software
 * Tech
   * Google search: Fiction Writing apps
+
 The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
 <img width="220" height="220" alt="Novelist" src="https://github.com/user-attachments/assets/c3137c1e-c47e-433a-9ef6-6dfeac024214"/>
 
