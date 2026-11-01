@@ -12,7 +12,7 @@ Topic: **Fiction Writing**
   * Google search: Fiction Writing apps
 
 The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
-<img width="220" height="220" alt="Novelist" src="https://github.com/user-attachments/assets/c3137c1e-c47e-433a-9ef6-6dfeac024214"/>
+<img height="187" alt="Novelist" src="https://github.com/user-attachments/assets/c3137c1e-c47e-433a-9ef6-6dfeac024214"/>
 
   * Free to download
   * Templates and allows custom templates
@@ -22,7 +22,7 @@ The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
 
 
 The next app I viewed was <a href="https://www.literatureandlatte.com/scrivener/overview">Scrivener</a>
-<img width="355" height="87" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJjps9fpCBUtIc8h5Xuk_yLKLnRQXTAH8X8cnJbAkvoTgcaI9UuLMy2c9&s=10"/>
+<img height="87" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWJjps9fpCBUtIc8h5Xuk_yLKLnRQXTAH8X8cnJbAkvoTgcaI9UuLMy2c9&s=10"/>
   
   * Scrivener is paid, but allows users a 30 day free trial (only applicable for macOS and Window versions)
     * Digital binder that stores manuscripts, world-building notes, character sketches, etc
@@ -32,7 +32,7 @@ The next app I viewed was <a href="https://www.literatureandlatte.com/scrivener/
     * Corkboard feature lays down virtual index cards of each scene so the plot can be reordered with simple drags and drops
 
 I also viewed <a href="https://www.atticus.io/">Atticus</a>
-image link
+<img height="175" src="https://thewritepractice.com/wp-content/uploads/2023/10/miniLogo.f0799810.png"/>
 * Paid, but cheaper than Scrivener
 * Usable on any computer
 * Collaboration features where you can assign others specific roles, such as the Co-writer and the Beta Reader.
