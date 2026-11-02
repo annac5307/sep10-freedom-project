@@ -11,7 +11,7 @@ Topic: **Fiction Writing**
   * Google search: Fiction Writing apps
 
 The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
-<img height="187" alt="Novelist" src="https://github.com/user-attachments/assets/c3137c1e-c47e-433a-9ef6-6dfeac024214"/>
+<img height="187" src="https://github.com/user-attachments/assets/c3137c1e-c47e-433a-9ef6-6dfeac024214"/>
 
   * Free to download
   * Templates and allows custom templates
@@ -42,16 +42,22 @@ I also viewed <a href="https://www.atticus.io/">Atticus</a>
     * Goal and habit settings to motivate the user
       
 ##### Hardware
-  * Google search: Fiction Writing apps
- * One of the results was <a href="https://kadavy.net/distraction-free-writing-devices/">Kadavy</a>
- * This website named various hardware, one of which being **typewriters**
-    * Mechanical and electric types (electric requires less finger strength)
-    * Helps silence inner critic
-    * Eliminates distraction
-    * Typically costs 
+* Google search: Fiction Writing apps
+* One of the results was <a href="https://kadavy.net/distraction-free-writing-devices/">Kadavy</a>, which named various hardware
+* The first listed was the **typewriter**
+* Mechanical and electric types (electric requires less finger strength)
+  * Helps silence inner critic
+  * Eliminates distraction
+    * Electric typewriter uses an electrical motor to power the typing stroke
+    * Electronic typewriters need to be plugged into an outlet with the correct voltage
+  * Typically costs $100-$1500
 
-
-* The
+A more specific option listed was the **Alphassmart**
+* Portable word processor 
+* stores eight separate files, so you can easily switch between projects
+* Writing can be transferred to a computer or tablet via a USB cable
+* Available on Amazon for around $80
+* Works for months on three AA batteries
   * [image text](image URL)
 
 ## Part B: possible future technology
