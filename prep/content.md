@@ -8,7 +8,6 @@ Topic: **Fiction Writing**
 ## Part A: existing technology
 
 ##### Software
-* Tech
   * Google search: Fiction Writing apps
 
 The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
@@ -43,8 +42,16 @@ I also viewed <a href="https://www.atticus.io/">Atticus</a>
     * Goal and habit settings to motivate the user
       
 ##### Hardware
-* Tech
-  * Detail
+  * Google search: Fiction Writing apps
+ * One of the results was <a href="https://kadavy.net/distraction-free-writing-devices/">Kadavy</a>
+ * This website named various hardware, one of which being **typewriters**
+    * Mechanical and electric types (electric requires less finger strength)
+    * Helps silence inner critic
+    * Eliminates distraction
+    * Typically costs 
+
+
+* The
   * [image text](image URL)
 
 ## Part B: possible future technology
