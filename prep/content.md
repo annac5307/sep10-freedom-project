@@ -14,10 +14,10 @@ The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
 <img height="187" src="https://github.com/user-attachments/assets/c3137c1e-c47e-433a-9ef6-6dfeac024214"/>
 
   * Free to download
-  * Templates and allows custom templates
-  * Can set a desired word count or due date to keep track of progress
-  * No maximum on how many books the user can write
-  * Organize story elements on a board that can be easily edited
+    * Templates and allows custom templates
+    * Can set a desired word count or due date to keep track of progress
+    * No maximum on how many books the user can write
+    * Organize story elements on a board that can be easily edited
 
 
 The next app I viewed was <a href="https://www.literatureandlatte.com/scrivener/overview">Scrivener</a>
@@ -50,14 +50,18 @@ I also viewed <a href="https://www.atticus.io/">Atticus</a>
   * Eliminates distraction
     * Electric typewriter uses an electrical motor to power the typing stroke
     * Electronic typewriters need to be plugged into an outlet with the correct voltage
-  * Typically costs $100-$1500
+* Typically costs $100-$1500
 
-A more specific option listed was the **Alphassmart**
-* Portable word processor 
-* stores eight separate files, so you can easily switch between projects
-* Writing can be transferred to a computer or tablet via a USB cable
-* Available on Amazon for around $80
-* Works for months on three AA batteries
+Another listed option was the **Alphassmart**
+ * Word processor (device used to create, edit, and format text documents)
+   * stores eight separate files, so you can easily switch between projects
+   * Writing can be transferred to a computer or tablet via a USB cable
+     * Works for months on three AA batteries
+    * Portable
+ * Available on Amazon for around $80
+
+For a more specific  
+ * 
   * [image text](image URL)
 
 ## Part B: possible future technology
