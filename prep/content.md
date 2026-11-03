@@ -2,8 +2,8 @@
 Topic: **Fiction Writing**
 
 ## Overview/Introduction/Context
-* Text
-* Text
+* Fiction writing is a type of literary creation in which the crafted stories are based on non-factual characters, settings, and/or events. 
+* With the rise of technology, it's vital that authors know how to utilize the provided tools. 
 
 ## Part A: existing technology
 
@@ -42,7 +42,8 @@ I also viewed <a href="https://www.atticus.io/">Atticus</a>
     * Goal and habit settings to motivate the user
       
 ##### Hardware
-* Google search: Fiction Writing apps
+* Google search: Fiction writing technology
+* [Electronic Typewriter Link](https://i5.walmartimages.com/seo/Nakajima-USA-WPT-160-Electronic-Portable-Typewriter-with-Display-White_7d5abae2-0ca2-491b-a060-c643ed00b7e4.3130eb924392fc9b2a9ac53da1ebd7db.jpeg)
 * One of the results was <a href="https://kadavy.net/distraction-free-writing-devices/">Kadavy</a>, which named various hardware
 * The first listed was the **typewriter**
 * Mechanical and electric types (electric requires less finger strength)
@@ -52,17 +53,13 @@ I also viewed <a href="https://www.atticus.io/">Atticus</a>
     * Electronic typewriters need to be plugged into an outlet with the correct voltage
 * Typically costs $100-$1500
 
-Another listed option was the **Alphassmart**
- * Word processor (device used to create, edit, and format text documents)
+Another listed option was the **Alphasmart**
+ * [Alphasmart Link](https://m.media-amazon.com/images/I/71IVE7DcX-L.jpg)
+ * Portable word processor (single-purpose gadget built for raw text entry)
    * stores eight separate files, so you can easily switch between projects
    * Writing can be transferred to a computer or tablet via a USB cable
      * Works for months on three AA batteries
-    * Portable
  * Available on Amazon for around $80
-
-For a more specific  
- * 
-  * [image text](image URL)
 
 ## Part B: possible future technology
 * Idea
