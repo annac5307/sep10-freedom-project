@@ -19,6 +19,16 @@ The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
  * No maximum on how many books the user can write
  * Organize story elements on a board that can be easily edited
 
+I also heard of the software <a href="https://ellipsus.com/">Ellipsus</a>
+(image link)
+ * Modern text-editor that handles haikus, manuscripts, etc
+ * Some paid features, but most of it is free
+ * Alternative to Google Docs that doesn't support generative AI
+ * Unlimited documents and drafts
+ * Unlimited collaborators
+ * Can merge drafts
+ * Allows beta readers to be added 
+ 
 Google search: Fiction writing technology
 
  * One of the results was <a href="https://kadavy.net/distraction-free-writing-devices/">Kadavy</a>, which named various hardware
