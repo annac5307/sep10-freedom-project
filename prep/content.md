@@ -20,7 +20,8 @@ The first software I viewed was <a href="https://www.novelist.app/">novelist</a>
  * Organize story elements on a board that can be easily edited
 
 I also heard of the software <a href="https://ellipsus.com/">Ellipsus</a>
-(image link)
+<img width="180" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2LHDavgR4u49_nmdv0tz9T_CRt0rqMbhvcvNl4ISPIySFvUXfCW1Q6w&s=10"/>
+ * Free
  * Modern text-editor that handles haikus, manuscripts, etc
  * Some paid features, but most of it is free
  * Alternative to Google Docs that doesn't support generative AI
