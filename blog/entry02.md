@@ -12,10 +12,33 @@ Categories other than software and hardware that I considered were difficulty le
 ### Engineering Design Process
 I'm currently in the second stage of the Engineering Design Process (research the problem). Previously in the first stage (define the problem), I identified the issue that people often consider technology to be a threat to writers instead of a tool.
 
-I researched this problem in stage two as displayed above, specifically through discovering various software and hardware that expanded on the potential root causes of the problem. After my searches, it's clear to me that different types of technology have their respective purposes in the field of fiction writing. The software, for instance, is typically more helpful in aspects such as formatting, organizing plot points, as well as an easier time editing text.    
+I researched this problem in stage two through discovering various software and hardware that expanded on the potential causes of the problem. After my searches, it's clear to me that different types of technology have their respective purposes in the field of fiction writing. 
 
+The software is typically more helpful in aspects like:
+ * Formatting
+ * Organizing plot points
+ * Editing text
+ 
+Whereas the hardware mainly helps eliminate distraction through its more limited functions and better portability. 
+
+This research has shown me that the issue defined in the first stage could've been caused by the large amount of creative freedom present in the very nature of writing. To elaborate, writing software typically only assists to the extent of structuring while the rest is up to the writer themselves. 
+
+Hardware is even _more_ hands-off (as ironic as it may sound) in the sense that they're designed primarily to just let the writer write drafts in peace. As a result, people could view the carefree essence of fiction writing as a reason why AI can easily infiltrate the field. 
+
+#### Next Steps 
+In the third stage of the Engineering Design Process (brainstorm possible solutions), I plan to use my knowledge from my research and from prior experiences to conceive ways that could possibly lessen the wedge between fiction writers and technology by emphasizing what authors have that bots lack.  
 ### Skills
+Skills I've learned since my first blog are how to skim the information about an item, and how to find suitable organization styles. 
 
+#### Skim information about an item
+Regarding <a href="https://kadavy.net/distraction-free-writing-devices/">Kadavy</a>, although the website already had the hardware listed with information included, I figured I should still look at the items on sites where they were being sold. For the aforementioned typewriters, I searched up "electric typewriter" on Google and went to the 'Shopping' section, where I found an <a href="https://www.walmart.com/ip/Nakajima-WPT-160-Electronic-Portable-Typewriter-with-Display-and-Memory/725991521?wmlspartner=wlpa&selectedSellerId=1905&veh=seo_fpl&cn=google">electrical typewriter</a> being sold on the Walmart website. Fortunately for me, the item's key features are already bulleted in its description, so it wasn't hard to quickly identify the product's different qualities through the bolded subtitles. 
+
+The <a href="https://www.amazon.com/dp/B007BHWRII?lv=shuf&tag=kadavyinc-20&channelId=1&plpRedirect=mhFallback">AlphaSmart</a> linked at <a href="https://kadavy.net/distraction-free-writing-devices/">Kadavy</a> sadly wasn't available, so I had to find another one. After searching "Alphasmart neo" on Google, I stumbled across another an <a href="https://porterelectronics.com/alphasmart-neo-word-processor-with-full-size-keyboard-calculator/?srsltid=AYCX9vKSGC3_qsvsfkqijfTGIL-86WbmsG025VGQSK4w9htr4o0nXGsTziE">AlphaSmart</a> device that's in stock as I'm writing this. Similar to the typewriter, the features were bulleted in the description. However, the lists aren't quite as brief so exclusively looking at the subtitles might've excluded more information than I'd like. In response to this issue, I decided to primarily look for key words such as "text", "typing", "tools", and "computers" to find the points of my interest. 
+
+#### Finding suitable organization styles
+As discussed earlier, I ultimately decided to sort the software and hardware I'd found by price due to its objectivity. Although I had to disregard the idea of organizing by difficulty level in the process, because I didn't know how I could accurately determine that quality when many features of the technology were shared. For example, <a href="https://www.novelist.app/">Novelist</a> and <a href="https://www.atticus.io/">Atticus</a> both have the option of using custom templates and pre-made templates, and while <a href="https://www.atticus.io/">Atticus</a> undeniably possesses more features, it could be argued that less features leads to less confusion for writers. This means that any judgment on the difficulty levels of the technology would've come down to personal biases rather than on a general consensus.
+
+This experience with finding an organization style taught me the importance of considering the nature of your topic. Creative writing, including fiction writing, is largely **subjective**. Consequently, the technology that aids in such topics will also have a lot of open room for varying perspectives, so the way in which they're sorted should follow accordingly to that 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
