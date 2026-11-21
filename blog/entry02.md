@@ -38,7 +38,7 @@ The <a href="https://www.amazon.com/dp/B007BHWRII?lv=shuf&tag=kadavyinc-20&chann
 #### Finding suitable organization styles
 As discussed earlier, I ultimately decided to sort the software and hardware I'd found by price due to its objectivity. Although I had to disregard the idea of organizing by difficulty level in the process, because I didn't know how I could accurately determine that quality when many features of the technology were shared. For example, <a href="https://www.novelist.app/">Novelist</a> and <a href="https://www.atticus.io/">Atticus</a> both have the option of using custom templates and pre-made templates, and while <a href="https://www.atticus.io/">Atticus</a> undeniably possesses more features, it could be argued that less features leads to less confusion for writers. This means that any judgment on the difficulty levels of the technology would've come down to personal biases rather than on a general consensus.
 
-This experience with finding an organization style taught me the importance of considering the nature of your topic. Creative writing, including fiction writing, is largely **subjective**. Consequently, the technology that aids in such topics will also have a lot of open room for varying perspectives, so the way in which they're sorted should follow accordingly to that 
+This experience with finding an organization style taught me the importance of considering the nature of your topic. Creative writing, including fiction writing, is largely **subjective**. Consequently, the technology that aids in such topics will also have a lot of open room for varying perspectives, so it'd be more accurate to sort the technology in a way which wouldn't contradict with their content. 
 
 [Previous](entry01.md) | [Next](entry03.md)
 
