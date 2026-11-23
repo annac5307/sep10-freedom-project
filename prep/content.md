@@ -74,5 +74,14 @@ Going back to the hardware:
 * Typically costs $100-$1500
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+* Immediate word-to-paper
+  * A machine that allows words to appear in real time as it's being typed on another electronic device 
+  * Text-to-speech option, so the words that appear on paper can be spoken if not typed 
+  * The words can also be deleted in real time without leaving any traces
+  * The words are written in a book with empty pages
+* Visualization off the web
+  * Typing and text-to-speech options (like above)
+  *  As words are spoken, the words appear on a digital page with a tab in the corner that can be enlarged or made smaller
+  *  In the tab, images are automatically picked out off existing websites that match the ideas expressed through the words
+  *  Can choose the number of images that appear in the tab
+  *  Users can decide the different aspects of the images that are chosen (Ex: color-scheme, setting, tone) 
